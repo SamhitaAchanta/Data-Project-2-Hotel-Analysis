@@ -13,5 +13,7 @@ To import the excel file, I built a database in MS SQL Server so that I can see 
 
 ## 2. Queries 
 
+([stays_in_weekend_nights] + [stays_in_week_nights]) * ([adr] * (1 - [Discount]))
+
 
 ##### Credit: Dataset is from a YouTube Creator called Absent Data
