@@ -15,5 +15,6 @@ To import the excel file, I built a database in MS SQL Server so that I can see 
 
 ([stays_in_weekend_nights] + [stays_in_week_nights]) * ([adr] * (1 - [Discount]))
 
+![image](https://user-images.githubusercontent.com/51171467/134120380-cc5b315f-d2eb-4cbd-82ea-0c2e39cdcb86.png)
 
 ##### Credit: Dataset is from a YouTube Creator called Absent Data
